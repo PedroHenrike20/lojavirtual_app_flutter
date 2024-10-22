@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321002650104",
+    "project_id": "loja-virtual-bd100",
+    "storage_bucket": "loja-virtual-bd100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321002650104:android:f9847bb297a16c21ccbe0d",
+        "android_client_info": {
+          "package_name": "br.com.pedrodev.lojavirtual"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8jFqCq0mtKJpVO0s6EcchA-FgicTVT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
